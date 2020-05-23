@@ -1,0 +1,12 @@
+{
+    "name": "masonen/community_keyshare",
+    "description": "Tool to share unneeded licence keys in your community.",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Benjamin Meißner",
+            "email": "info@masonen.de"
+        }
+    ],
+    "require": {}
+}
